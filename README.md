@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://jrprojects.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=%3E+whoami;Jakub+R%C4%99bkowski;%3E+Junior+SOC+Analyst;%3E+Red+to+Blue+Mindset" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1500&color=00FF00&center=true&vCenter=true&width=500&lines=nysch3n;%3E+Junior+SOC;%3E+Kali+Enthusiast" alt="Typing SVG" />
   </a>
-  <p><b>Poland 📍 | PJAIT Computer Science Student 🎓</b></p>
+  <p><b>Warsaw, Poland 📍 | PJAIT Computer Science Student 🎓</b></p>
 </div>
 
 ---
