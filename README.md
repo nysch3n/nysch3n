@@ -1,8 +1,6 @@
 <div align="center">
-  <a href="https://jrprojects.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1500&color=00FF00&center=true&vCenter=true&width=500&lines=nysch3n;%3E+Junior+SOC;%3E+Kali+Enthusiast" alt="Typing SVG" />
-  </a>
-  <p><b>Warsaw, Poland 📍 | PJAIT Computer Science Student 🎓</b></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=30&duration=1500&pause=1500&color=4493F8&center=true&width=435&lines=(kali%E3%89%BFkali)-%5B~%5D%E2%94%80%24+whoami;nysch3n" alt="Typing SVG" /></a>
+  <p><b>Poland 📍 | PJAIT Computer Science Student 🎓</b></p>
 </div>
 
 ---
@@ -17,5 +15,4 @@
 
 echo "Targeting:"          "Log Analysis, SIEM (Splunk), Incident Response"
 echo "Current Focus:"      "Building Homelabs & TryHackMe defensive paths"
-echo "Philosophy:"         "To defend effectively, you must understand the attack."
 echo "Portfolio:"          "[https://jrprojects.dev](https://jrprojects.dev)"
