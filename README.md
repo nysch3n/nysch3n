@@ -15,3 +15,9 @@
 
 echo "Targeting:"          "Log Analysis, SIEM (Splunk), Incident Response"
 echo "Current Focus:"      "Building Homelabs & TryHackMe defensive paths"
+```
+<div align="center">
+  <a href="https://tryhackme.com/p/nysch3n">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nysch3n.png" alt="TryHackMe Badge" />
+  </a>
+</div>
