@@ -18,6 +18,6 @@ echo "Current Focus:"      "Building Homelabs & TryHackMe defensive paths"
 ```
 <div align="center">
   <a href="https://tryhackme.com/p/nysch3n">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/nysch3n.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nysch3n.png" alt="Your Image Badge" />
   </a>
 </div>
