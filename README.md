@@ -9,7 +9,6 @@
 
 ### 🕵️‍♂️ [System.Info]
 
-Zamiast pisać nudne formułki, oto moje aktualne parametry systemowe:
 
 ```bash
 #!/bin/bash
