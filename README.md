@@ -5,7 +5,7 @@
 
 ---
 
-### 🕵️‍♂️ [System.Info]
+### [System.Info]
 
 
 ```bash
@@ -15,4 +15,3 @@
 
 echo "Targeting:"          "Log Analysis, SIEM (Splunk), Incident Response"
 echo "Current Focus:"      "Building Homelabs & TryHackMe defensive paths"
-echo "Portfolio:"          "[https://jrprojects.dev](https://jrprojects.dev)"
