@@ -11,7 +11,7 @@
 ```bash
 #!/bin/bash
 # Profile: Jakub Rębkowski
-# Status: Actively looking for a Junior SOC Analyst / Junior CTI role
+# Status: Grinding a SOC Analyst / CTI role
 
 echo "Targeting:"          "Log Analysis, SIEM (Splunk), Incident Response & CTI"
 echo "Current Focus:"      "Building Homelabs, TryHackMe paths & Networking"
