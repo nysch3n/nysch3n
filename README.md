@@ -4,7 +4,7 @@
 
 ---
 
-### [System.Info]                                                                X
+### [System.Info]
 
 
 ```bash
